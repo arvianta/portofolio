@@ -32,9 +32,7 @@ const Bio = ({ secondary }) => (
           Google Bangkit
         </Link>{" "}
         as a{" "}
-        <strong style={{ color: secondary }}>
-          Cloud Computing Cohort</strong>
-        .
+        <strong style={{ color: secondary }}>Cloud Computing Cohort</strong>.
       </Text>
     </VStack>
   </GridItem>
