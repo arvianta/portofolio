@@ -22,7 +22,10 @@ module.exports = {
   rules: {
     "jsx-a11y/no-noninteractive-element-interactions": "off",
     "jsx-a11y/click-events-have-key-events": "off",
+    "react/jsx-indent-props": "off",
+    "react/jsx-indent": "off",
     "react/prop-types": "off",
+    "prettier/prettier": "off",
     "react/no-array-index-key": "off",
     "react/jsx-props-no-spreading": "off",
     "react/jsx-one-expression-per-line": "off",
