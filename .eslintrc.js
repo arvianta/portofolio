@@ -25,7 +25,6 @@ module.exports = {
     "react/jsx-indent-props": "off",
     "react/jsx-indent": "off",
     "react/prop-types": "off",
-    "prettier/prettier": "off",
     "react/no-array-index-key": "off",
     "react/jsx-props-no-spreading": "off",
     "react/jsx-one-expression-per-line": "off",
