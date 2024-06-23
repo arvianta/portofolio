@@ -33,8 +33,7 @@ const Bio = ({ secondary }) => (
         </Link>{" "}
         as a{" "}
         <strong style={{ color: secondary }}>
-          Cloud Computing Cohort
-        </strong>
+          Cloud Computing Cohort</strong>
         .
       </Text>
     </VStack>

@@ -9,10 +9,10 @@ import React from "react";
 import { BiLink } from "react-icons/bi";
 import {
   FaDev,
-  FaLinkedin,
-  FaYoutube,
   FaDraftingCompass,
+  FaLinkedin,
   FaTv,
+  FaYoutube,
 } from "react-icons/fa";
 import { IoMdDocument } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
