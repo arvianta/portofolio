@@ -18,21 +18,22 @@ const Bio = ({ secondary }) => (
     <VStack m="auto" w="75%" spacing="12px" pt="5%">
       <Text>
         Hi, I&apos;m Rayhan! A computer science student at the Sepuluh Nopember
-        Institute of Technology, Indonesia. I&apos;m currently working on various projects,
-        mostly focusing on back-end development.
+        Institute of Technology, Indonesia. I&apos;m currently working on
+        various projects, mostly focusing on back-end development.
       </Text>
       <Text>
-        I&apos;m keen on creating optimal & scalable APIs that could solve any real world problems. I always try to keep up with the latest technologies, 
-        and recently became a graduate from{" "}
+        I&apos;m keen on creating optimal & scalable APIs that could solve any
+        real world problems. I always try to keep up with the latest
+        technologies, and recently became a graduate from{" "}
         <Link
-            href="https://grow.google/intl/id_id/bangkit/?tab=cloud-computing"
-            isExternal
+          href="https://grow.google/intl/id_id/bangkit/?tab=cloud-computing"
+          isExternal
         >
-            Google Bangkit
-        </Link>
-        {" "} as a {" "}
+          Google Bangkit
+        </Link>{" "}
+        as a{" "}
         <strong style={{ color: secondary }}>
-            Cloud Computing Cohort
+          Cloud Computing Cohort
         </strong>
         .
       </Text>

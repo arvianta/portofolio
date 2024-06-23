@@ -7,7 +7,13 @@ import {
 } from "@chakra-ui/react";
 import React from "react";
 import { BiLink } from "react-icons/bi";
-import { FaDev, FaLinkedin, FaYoutube, FaDraftingCompass, FaTv } from "react-icons/fa";
+import {
+  FaDev,
+  FaLinkedin,
+  FaYoutube,
+  FaDraftingCompass,
+  FaTv,
+} from "react-icons/fa";
 import { IoMdDocument } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
 import { VscGithubInverted } from "react-icons/vsc";

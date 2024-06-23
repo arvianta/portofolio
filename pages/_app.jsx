@@ -3,7 +3,6 @@ import "../styles/globals.css";
 import { ChakraProvider } from "@chakra-ui/react";
 import Head from "next/head";
 import { useRouter } from "next/router";
-import Script from "next/script";
 import React from "react";
 
 import Footer from "../components/Footer";
@@ -21,17 +20,17 @@ const SiteHead = ({ title }) => (
     <meta name="theme-color" content="#252934" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.rayhanarvianta.vercel.app" />
-    <meta
-      property="og:title"
-      content="Rayhan Arvianta - Back-End Developer"
-    />
+    <meta property="og:title" content="Rayhan Arvianta - Back-End Developer" />
     <meta
       property="og:description"
       content="Rayhan Arvianta's personal portfolio"
     />
     <meta property="og:image" content="/logo512.png" />
     <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="http://www.rayhanarvianta.vercel.app" />
+    <meta
+      property="twitter:url"
+      content="http://www.rayhanarvianta.vercel.app"
+    />
     <meta
       property="twitter:title"
       content="Rayhan Arvianta - Back-End Developer"

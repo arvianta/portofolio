@@ -1,12 +1,12 @@
 /* eslint-disable no-console */
-import { Box, Link, Stack, Text } from "@chakra-ui/react";
-import React, { useEffect, useState } from "react";
+import { Box, Text } from "@chakra-ui/react";
+import React from "react";
 
 import links from "../data/footerLinks";
 import LinkIconBar from "./LinkIconBar";
 
 export default function Footer() {
-return (
+  return (
     <Box as="footer" mt={12} height="100%" textAlign="center" className="app">
       <Text fontSize="sm">
         Made with{" "}
