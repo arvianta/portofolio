@@ -29,6 +29,7 @@ const jobs = [
       "Acted as the team leader in developing a mobile application for a startup company, Kaizen Room, which aims to provide a platform for educators in Indonesia to improve their educating experience with artificial intelligence",
       "Developed a Go RESTful API with gin-gonic that serves as the backend for the mobile application, integrated with the AI text generation inference machine learning model",
       "Deployed all resources securely on Google Cloud Platform, including the RESTful API, the AI model, the database, and the cloud storage",
+      "Graduated with distinction from the Cloud Computing Track",
     ],
     url: "https://grow.google/intl/id_id/bangkit/?tab=cloud-computing",
   },
