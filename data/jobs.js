@@ -10,7 +10,7 @@ const jobs = [
     url: "https://www.sadari.co.id/",
   },
   {
-    workplace: "PT United Tractors Tbk",
+    workplace: "United Tractors",
     position: "Machine Learning Engineer Intern",
     duration: ["Aug 2024 - Jul 2025"],
     description: [
@@ -48,7 +48,7 @@ const jobs = [
     url: "https://grow.google/intl/id_id/bangkit/?tab=cloud-computing",
   },
   {
-    workplace: "Ministry of Agriculture of the Republic of Indonesia",
+    workplace: "Ministry of Agriculture",
     position: "Lead Software Engineer",
     duration: ["Aug 2023 - Dec 2023"],
     description: [
