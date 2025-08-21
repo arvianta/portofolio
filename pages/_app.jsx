@@ -12,7 +12,7 @@ import theme from "../theme";
 const SiteHead = ({ title }) => (
   <Head>
     <title>{title}</title>
-    <meta name="title" content="Rayhan Arvianta - Back-End Developer" />
+    <meta name="title" content="Rayhan Arvianta - Software Engineer" />
     <meta name="description" content="Rayhan Arvianta - Portfolio" />
     <link rel="icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/logo192.png" />
@@ -20,7 +20,7 @@ const SiteHead = ({ title }) => (
     <meta name="theme-color" content="#252934" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.rayhanarvianta.vercel.app" />
-    <meta property="og:title" content="Rayhan Arvianta - Back-End Developer" />
+    <meta property="og:title" content="Rayhan Arvianta - Software Engineer" />
     <meta
       property="og:description"
       content="Rayhan Arvianta's personal portfolio"
@@ -33,7 +33,7 @@ const SiteHead = ({ title }) => (
     />
     <meta
       property="twitter:title"
-      content="Rayhan Arvianta - Back-End Developer"
+      content="Rayhan Arvianta - Software Engineer"
     />
     <meta
       property="twitter:description"
@@ -68,7 +68,7 @@ function App({ Component, pageProps }) {
   const { pathname } = useRouter();
 
   const pathToTitle = {
-    "/": "Rayhan Arvianta - Back-End Developer",
+    "/": "Rayhan Arvianta - Software Engineer",
   };
 
   return (
