@@ -18,13 +18,13 @@ const Bio = ({ secondary }) => (
     <VStack m="auto" w="75%" spacing="12px" pt="5%">
       <Text>
         Hi, I&apos;m Rayhan! An Informatics graduate from the Sepuluh Nopember
-        Institute of Technology, Indonesia, passionate about back-end engineering,
-        cloud computing, and MLOps.
+        Institute of Technology, Indonesia, passionate about back-end
+        engineering, cloud computing, and MLOps.
       </Text>
       <Text>
-        I focus on building scalable APIs, data-driven applications, and reliable
-        machine learning pipelines—always aiming to deliver solutions that solve
-        real-world problems efficiently and at scale.
+        I focus on building scalable APIs, data-driven applications, and
+        reliable machine learning pipelines—always aiming to deliver solutions
+        that solve real-world problems efficiently and at scale.
       </Text>
       <Text>
         I&apos;m always eager to grow—whether through industry projects,

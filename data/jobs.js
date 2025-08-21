@@ -18,7 +18,7 @@ const jobs = [
       "Built an end-to-end workflow for classification and regression use cases, ensuring reproducibility and automation across training, model registration, scheduled inference, monitoring, and environment promotion",
       "Introduced structured MLOps practices within the data science team, improving scalability, maintainability, and collaboration in ML model development",
       "Contributed to UT’s proof-of-concept project with Databricks, implementing experiment tracking, model monitoring, and feature drift detection to evaluate modern MLOps capabilities",
-      "Developed a multi-layered codebase standardization pipeline, increasing code consistency and productivity across projects"
+      "Developed a multi-layered codebase standardization pipeline, increasing code consistency and productivity across projects",
     ],
     url: "https://www.unitedtractors.com/en/",
   },

@@ -19,13 +19,13 @@ const projects = [
       {
         label: "Demo",
         icon: "youtube",
-        url: "https://youtu.be/0z8JmPqnaQ8"
+        url: "https://youtu.be/0z8JmPqnaQ8",
       },
       {
         label: "Presentation",
         icon: "ppt",
-        url: "https://www.canva.com/design/DAGH7XO4lgk/0ErfrOVg0trEwYxTfozgMw/view?utm_content=DAGH7XO4lgk&utm_campaign=designshare&utm_medium=link&utm_source=editor"
-      }
+        url: "https://www.canva.com/design/DAGH7XO4lgk/0ErfrOVg0trEwYxTfozgMw/view?utm_content=DAGH7XO4lgk&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+      },
     ],
   },
   {
@@ -34,14 +34,14 @@ const projects = [
       "Dashboard Informasi Iklim Direktorat Perlindungan Tanaman Pangan or DIK LINDA for short is a platform for the directorate of food crop protection of the ministry of agriculture. This application aims to provide crucial informations regarding weather parameters at multiple fields in Indonesia.",
     pic: "/diklinda.png",
     tech: ["Next.js", "Laravel"],
-    links: [
-    ],
+    links: [],
   },
   {
     name: "Fithub App",
     description:
       "The Fithub App is a gym membership web application. This application was made to handle user registrations, payments, and notifications regarding gym activities.",
-    subtitle: "Created as a final project for the Framework Based Programming course",
+    subtitle:
+      "Created as a final project for the Framework Based Programming course",
     pic: "/fithub.png",
     tech: ["Laravel"],
     links: [
@@ -96,7 +96,8 @@ export const extraProjects = [
   {
     name: "Computer Networks Simulation",
     type: "Personal",
-    description: "A CIDR and VLSM computer networking simulation using cisco packet tracer.",
+    description:
+      "A CIDR and VLSM computer networking simulation using cisco packet tracer.",
     tech: ["Cisco Packet Tracer", "CIDR", "VLSM"],
     links: [
       {
